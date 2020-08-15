@@ -4,7 +4,7 @@
 
 This repo contains scripts to install ESP32-S2 requirements. 
 
-As of this writing (Aug 15th 2020) you cannot install the board Arduino IDE board without alot of messing around... The reason is because internaly only the ESP-IDF v4.2 will support ESP32-S2 final chip. This is currently available on the ESP-IDF master branch only!
+As of this writing (Aug 15th 2020) you cannot install the board Arduino IDE board without alot of messing around... The reason is because internaly only the ESP-IDF v4.2 will support ESP32-S2 final chip. This is currently available on the ESP-IDF master branch and arduino-esp32 esp32s2 branch only. The below instructions should give you everything you need once you have Ardunio installed.
 
 # To install the ESP32-S2 board into Ardunio on Ubuntu 20.04.1 LTS
 
