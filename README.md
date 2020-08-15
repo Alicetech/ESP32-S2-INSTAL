@@ -1,6 +1,6 @@
 # ESP32-S2-INSTALL
 
-![Proof compile and install works](/proof-compileandinstall.png)
+![Proof compile and install works](/docs/proof-compileandinstall.png)
 
 This repo contains scripts to install ESP32-S2 requirements. 
 
